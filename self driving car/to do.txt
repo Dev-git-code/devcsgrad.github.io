@@ -1,0 +1,2 @@
+1. write comments 
+2. host project on github
